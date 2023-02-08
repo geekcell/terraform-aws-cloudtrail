@@ -60,7 +60,9 @@ for recording and storing API activity in your AWS account.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_bucket_id"></a> [bucket\_id](#output\_bucket\_id) | The id of the bucket. |
 
 ## Providers
 
