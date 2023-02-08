@@ -1,3 +1,5 @@
-module "example" {
+module "basic-example" {
   source = "../../"
+
+  name = "cloudtrail"
 }
