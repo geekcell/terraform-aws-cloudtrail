@@ -39,7 +39,8 @@ resource "aws_cloudtrail" "main" {
 }
 
 module "bucket" {
-  source = "github.com/geekcell/terraform-aws-s3?ref=v1.0"
+  source  = "geekcell/s3/aws"
+  version = ">= 1.0.0, < 2.0.0"
 
   name   = "${var.name}-cloudtrail"
   policy = data.aws_iam_policy_document.main.json
