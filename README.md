@@ -1,5 +1,5 @@
 <!-- BEGIN_TF_DOCS -->
-[![Geek Cell GmbH](https://raw.githubusercontent.com/geekcell/template-terraform-module/main/docs/assets/logo.svg)](https://www.geekcell.io/)
+[![Geek Cell GmbH](https://raw.githubusercontent.com/geekcell/.github/main/geekcell-github-banner.png)](https://www.geekcell.io/)
 
 ### Code Quality
 [![License](https://img.shields.io/github/license/geekcell/terraform-aws-cloudtrail)](https://github.com/geekcell/terraform-aws-cloudtrail/blob/master/LICENSE)
@@ -7,6 +7,8 @@
 [![Release](https://github.com/geekcell/terraform-aws-cloudtrail/actions/workflows/release.yaml/badge.svg)](https://github.com/geekcell/terraform-aws-cloudtrail/actions/workflows/release.yaml)
 [![Validate](https://github.com/geekcell/terraform-aws-cloudtrail/actions/workflows/validate.yaml/badge.svg)](https://github.com/geekcell/terraform-aws-cloudtrail/actions/workflows/validate.yaml)
 [![Lint](https://github.com/geekcell/terraform-aws-cloudtrail/actions/workflows/linter.yaml/badge.svg)](https://github.com/geekcell/terraform-aws-cloudtrail/actions/workflows/linter.yaml)
+
+<!--
 
 ### Security
 [![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/geekcell/terraform-aws-cloudtrail/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=geekcell%2Fterraform-aws-cloudtrail&benchmark=INFRASTRUCTURE+SECURITY)
@@ -32,6 +34,8 @@
 [![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/geekcell/terraform-aws-cloudtrail/nist)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=geekcell%2Fterraform-aws-cloudtrail&benchmark=NIST-800-53)
 [![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/geekcell/terraform-aws-cloudtrail/hipaa)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=geekcell%2Fterraform-aws-cloudtrail&benchmark=HIPAA)
 [![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/geekcell/terraform-aws-cloudtrail/fedramp_moderate)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=geekcell%2Fterraform-aws-cloudtrail&benchmark=FEDRAMP+%28MODERATE%29)
+
+-->
 
 # Terraform AWS Cloudtrail
 
